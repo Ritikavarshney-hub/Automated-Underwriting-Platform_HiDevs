@@ -1,1 +1,9 @@
 # Add your project dependencies here
+fastapi
+uvicorn
+pytesseract
+Pillow
+transformers
+torch
+streamlit
+requests
